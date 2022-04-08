@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637849031371150540
+      ticks: 637849241241582042
     m_Hash: 728776223
   m_LockFileStatus:
     m_FilePath: C:/Users/INDI-202001-002/Desktop/training/Junior Programmer/Prototype-3/Prototype-3/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637849031627637099
+      ticks: 637849241241882152
     m_Hash: 2249468046
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}

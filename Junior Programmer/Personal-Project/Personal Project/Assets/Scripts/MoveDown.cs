@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class MoveDown : MonoBehaviour
 {
-    public float speed = 20.0f;
+    public float speed = 80.0f;
     private Rigidbody objectRb;
     private float zDestroy = 20;
                 
